@@ -1,4 +1,11 @@
-body {background-color: #74992e;font: italic 1.2em "Fira Sans", serif; }
-p { color: #00ff00; } 
-h1 { color: rebeccapurple; } 
-h2 { color: blue; }
+body {
+background-color: lightgrey;
+}
+h1 {
+color: blue;
+font-family: Serif;
+}
+p {
+color: white;
+font-family: Sans-Serif;
+}
